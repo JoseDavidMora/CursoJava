@@ -1,1 +1,1 @@
-Repositorio con los archivos del curso java de moodle.
+Repositorio con los archivos del curso java y GIT de moodle.
